@@ -31,7 +31,7 @@
 </p>
 
 ----
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&layout=compact&theme=graywhite)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&langs_count=10&count_private=true&theme=tokyonight&layout=compact)
 
 <p align="right">
   <a href="https://badges.pufler.dev">
