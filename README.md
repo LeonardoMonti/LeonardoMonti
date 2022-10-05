@@ -1,40 +1,66 @@
-# Hi.:punch:
-## I'm Leonardo Monti
-- I live in :brazil:.
+# Olá. Bem-vindo(a) :punch:
+## me chamo Leonardo
+### 🌍 :brazil:, Sul de minas
+
+### 👩‍💻 Estudando atualmente na [Trybe](https://www.betrybe.com/).
+
+  ```json:
+  modulos: [
+    { "id": 1, "name": "Fundamentos", "status": "concluído" },
+    { "id": 2, "name": "Front-end", "status": "concluído" }, 
+    { "id": 3, "name": "Back-end", "status": "concluído" },
+    { "id": 4, "name": "Ciência da Computação", "status": "processando" },
+  ]
+  ```
+### 🧠 Estou aprendendo:
+  - Python
+  - AWS
+
+### 📫 Entre em contato:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomonti/)](https://www.linkedin.com/in/leonardomonti/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoleomonti@gmail.com)](mailto:contatoleomonti@gmail.com)
+
+---
+
+### 🛠️ ~/ code .
+
+###
+<div style="display: flex; justify-content: flex-start; gap: 5px;"> 
+<br>
+  <img title="HTML" alt="HTML" width="40px" src="./assets/htmt5-logo.svg" />
+
+  <img title="CSS3" alt="CSS3" width="40px" src="./assets/css-logo.svg" />
+
+  <img title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+
+  <img title="Javascript" alt="Javascript" width="40px" src="./assets/javascript-logo.svg" />
+
+  <img title="React" alt="React" width="40px" src="./assets/react-logo.svg" />
+
+  <img title="Redux" alt="Redux" width="40px" src="./assets/redux-logo.svg" />
+
+  <img title="NodeJs" alt="NodeJs" width="40px" src="./assets/nodejs-logo.svg" />
+
+  <img title="Sequelize" alt="Sequelize" width="40px" src="./assets/sequelize-logo.svg" />
+
+  <img title="Mongodb" alt="Mongodb" width="40px" src="./assets/mongodb-logo.svg" />
+
+  <img title="Docker" alt="Docker" width="40px" src="./assets/docker-logo.svg" />
+
+  <img title="Tailwindcss" alt="Tailwind" width="40px" src="./assets/tailwindcss-logo.svg" />
+
+  <img title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+<br>
+</div>
 
 
-### Welcome to my github
+---
 
-## Connect with me:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&hide=html&langs_count=10&layout=compact&theme=tokyonight" alt="top-langs" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LeonardoMonti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomonti/)](https://www.linkedin.com/in/leonardomonti/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoleomonti@gmail.com)](mailto:contatoleomonti@gmail.com)
+---
 
-----
+<img align="right" src="https://komarev.com/ghpvc/?username=LeonardoMonti&color=blue&label=VIEWS" alt="views" />
 
-## My Skills
-### Learning 👨‍💻 🖥️ 🔋
-  
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
 
-----
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&langs_count=10&count_private=true&theme=tokyonight&layout=compact)
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/LeonardoMonti/LeonardoMonti" alt="Visitors badge" />
-  </a>
-</p>
