@@ -57,7 +57,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&hide=html&langs_count=10&layout=compact&theme=tokyonight" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMonti&hide=html&langs_count=12&layout=compact&theme=tokyonight" alt="top-langs" />
 
 ---
 
