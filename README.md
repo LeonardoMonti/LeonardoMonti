@@ -2,17 +2,7 @@
 ## me chamo Leonardo
 ### 🌍 :brazil:, Sul de minas
 
-### 👩‍💻 Estudando atualmente na [Trybe](https://www.betrybe.com/).
-
-  ```json:
-  modulos: [
-    { "id": 1, "name": "Fundamentos", "status": "concluído" },
-    { "id": 2, "name": "Front-end", "status": "concluído" }, 
-    { "id": 3, "name": "Back-end", "status": "concluído" },
-    { "id": 4, "name": "Ciência da Computação", "status": "processando" },
-  ]
-  ```
-### 🧠 Estou aprendendo:
+### 🧠 Estudando:
   - Python
   - AWS
 
