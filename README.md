@@ -1,5 +1,5 @@
 # Olá :punch:
-## Eu sou Leonardo, um aprendiz e desenvolvedor 
+## Eu sou Leonardo, um aprendiz em desenvolvimento  
 ### 🌍 :brazil:, Sul de minas
 
 ### 📫 Entre em contato:
