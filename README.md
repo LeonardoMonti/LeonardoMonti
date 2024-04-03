@@ -1,10 +1,6 @@
-# Olá. Bem-vindo(a) :punch:
-## me chamo Leonardo
+# Olá :punch:
+## Eu sou Leonardo, um aprendiz e desenvolvedor 
 ### 🌍 :brazil:, Sul de minas
-
-### 🧠 Estudando:
-  - Python
-  - AWS
 
 ### 📫 Entre em contato:
 
